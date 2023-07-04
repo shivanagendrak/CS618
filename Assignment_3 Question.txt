@@ -1,0 +1,23 @@
+Please provide Jupyter notebook using CNN, You will use Fashion MNIST Dataset, which contains 70,000 grayscale images in 10 categories.
+
+by using this command fashion_mnist = keras.datasets.fashion_mnist
+
+don't forget to import:
+
+from __future__ import absolute_import, division, print_function
+# TensorFlow and tf.keras
+import tensorflow as tf
+from tensorflow import keras
+# Helper libraries
+import numpy as np
+import matplotlib.pyplot as plt
+ 
+ 
+ 
+
+Examine and understand data
+Build an input pipeline
+Build the model
+Train the model
+Test the model
+Improve the model and repeat the process
